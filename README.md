@@ -1,4 +1,4 @@
-#BATERIA VIRTUAL
+ # BATERIA VIRTUAL
 
 - Para compor musicas basta digitar as teclas Q W E A S D Z X C no campo de composicao, e pressionar o botao tocar!
 - O mesmo ira repetir a composicao na ordem em que foi digitada!
